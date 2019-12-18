@@ -14,4 +14,4 @@ I did not create the art assets for this game. The asset credits can be found in
 
 ### Running the game:
 
-1. Run the .exe-file: /Release/SDLProject.exe
+1. Run the .exe -file: /Release/SDLProject.exe
