@@ -1,0 +1,14 @@
+﻿  playerCharacter.cpp
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(96): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(101): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(119): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(136): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(173): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\otto\source\repos\sdlproject\sdlproject\playercharacter.cpp(173): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SDLProject.vcxproj -> C:\Users\Otto\source\repos\SDLProject\Debug\SDLProject.exe

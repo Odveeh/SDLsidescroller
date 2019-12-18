@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>floatingtext.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'floatingText::timeDifference' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>floatingText::{ctor}</FUNCTION>
+    <DECORATED>??0floatingText@@QAE@ABVPoint2D@@PAUSDL_Texture@@_NPAUSDL_Rect@@@Z</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

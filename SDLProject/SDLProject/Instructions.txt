@@ -1,0 +1,10 @@
+Controls:
+
+- movement: WASD
+- jump: SPACE
+- shooting: LMB/RMB
+- pause game: ESC
+- restart game: R
+
+
+

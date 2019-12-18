@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ParticleSystem::particleSystemLifetime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ParticleSystem::{ctor}</FUNCTION>
+    <DECORATED>??0ParticleSystem@@QAE@HVPoint2D@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ParticleSystem::particleAmount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ParticleSystem::{ctor}</FUNCTION>
+    <DECORATED>??0ParticleSystem@@QAE@XZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ParticleSystem::particleSystemLifetime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ParticleSystem::{ctor}</FUNCTION>
+    <DECORATED>??0ParticleSystem@@QAE@XZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::yVel' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::particleKillTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::particleColor' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::particlePos' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::particleLifeTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::isDead' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::xVel' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@XZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\otto\source\repos\sdlproject\sdlproject</FILEPATH>
+      <FILENAME>particlesystem.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Particle::particleColor' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Particle::{ctor}</FUNCTION>
+    <DECORATED>??0Particle@@QAE@HH@Z</DECORATED>
+    <FUNCLINE>84</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
